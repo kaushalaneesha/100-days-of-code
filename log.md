@@ -25,7 +25,7 @@
 **Link to work:** [Coin Change](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/coin_change.py)
                   [Remove Element from LinkedList](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/delete_elem.py)
 
-### Day 4: Wednesday July 28, 2020
+### Day 5: Wednesday July 30, 2020
 
 **Today's Progress**: Solved two questions and one hour alarm rang without me checking the clock! 
 
