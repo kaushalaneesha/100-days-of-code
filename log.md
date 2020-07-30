@@ -16,7 +16,7 @@
 
 **Link to work:** [Caesar Cipher](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/caeser_cipher.py)
 
-### Day 3: Monday July 28, 2020
+### Day 3: Tuesday July 28, 2020
 
 **Today's Progress**: Yesterday's DP question completed. Also picked up one easy linked in question
 
@@ -24,3 +24,12 @@
 
 **Link to work:** [Coin Change](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/coin_change.py)
                   [Remove Element from LinkedList](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/delete_elem.py)
+
+### Day 4: Wednesday July 28, 2020
+
+**Today's Progress**: Solved two questions and one hour alarm rang without me checking the clock! 
+
+**Thoughts:** No matter what, it always feels good when you do it!!  
+
+**Link to work:** [Coin Change 2](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/coin_change_2.py)
+                  [Power of 2](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/pow_of_2.py)
