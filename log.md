@@ -33,3 +33,11 @@
 
 **Link to work:** [Coin Change 2](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/coin_change_2.py)
                   [Power of 2](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/pow_of_2.py)
+
+### Day 7: Sunday August 2, 2020
+
+**Today's Progress**: Solved a data structure construction problem today.  
+
+**Thoughts:** Took much more time than expected. I need to work more on coding than algorithm. I need to be faster in debugging.
+
+**Link to work:** [Randomized Set](https://github.com/kaushalaneesha/100DaysOfCode/blob/master/coding_questions/randomized_set.py)
